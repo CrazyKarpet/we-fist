@@ -1,0 +1,53 @@
+<mxfile host="Electron" modified="2024-03-08T13:14:16.795Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="CcgKOdla2-eq8bc9W8o0" version="23.1.5" type="device">
+  <diagram name="Page-1" id="UGERrRTtrFB4jtHQJWO9">
+    <mxGraphModel dx="880" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cvG3VCdItDC6tDdGZ3lL-1" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cvG3VCdItDC6tDdGZ3lL-2" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="cvG3VCdItDC6tDdGZ3lL-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvG3VCdItDC6tDdGZ3lL-3" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="cvG3VCdItDC6tDdGZ3lL-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvG3VCdItDC6tDdGZ3lL-4" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="cvG3VCdItDC6tDdGZ3lL-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvG3VCdItDC6tDdGZ3lL-5" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="cvG3VCdItDC6tDdGZ3lL-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvG3VCdItDC6tDdGZ3lL-6" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="cvG3VCdItDC6tDdGZ3lL-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvG3VCdItDC6tDdGZ3lL-7" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="cvG3VCdItDC6tDdGZ3lL-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvG3VCdItDC6tDdGZ3lL-8" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="cvG3VCdItDC6tDdGZ3lL-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvG3VCdItDC6tDdGZ3lL-9" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" target="cvG3VCdItDC6tDdGZ3lL-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
